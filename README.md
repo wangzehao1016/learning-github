@@ -1,2 +1,2 @@
 # learning-github
-The repository is used to learn the features of github
+I am Steven and this is my test to the github features
